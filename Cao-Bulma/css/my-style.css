@@ -1,0 +1,6 @@
+.card {
+  flex-basis: 24%;
+}
+.is-flex {
+  gap: 20px;
+}
