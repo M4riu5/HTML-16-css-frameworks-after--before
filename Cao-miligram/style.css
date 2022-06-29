@@ -1,0 +1,21 @@
+.background {
+  background-image: url(https://images.pexels.com/photos/6509308/pexels-photo-6509308.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+  background-size: cover;
+}
+.login {
+  background-color: white;
+  width: 60vh;
+  padding: 3rem 2rem;
+}
+.logo {
+  display: flex;
+  text-align: center;
+  width: 25%;
+  padding-top: 10rem;
+}
+.footer {
+  color: rgb(182, 182, 182);
+}
+p {
+  text-align: center;
+}
